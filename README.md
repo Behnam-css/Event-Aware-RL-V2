@@ -1,4 +1,4 @@
-# Event-aware RL for patch foraging — GitHub Pages report
+# Event-aware RL for patch foraging 
 
 This repository is for a synthetic two-action patch-foraging simulation. It compares five policies under a common `exploit` / `leave` action set: event-aware average-reward policy iteration, event-blind policy iteration, a Zeraati-style event-free adapted baseline, an MVT-inspired threshold, and a tuned fixed threshold.
 
