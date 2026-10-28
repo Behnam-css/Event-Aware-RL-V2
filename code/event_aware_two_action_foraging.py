@@ -5,8 +5,7 @@ Purpose
 Compare event-aware and event-blind average-reward MDP policies while holding
 the action set fixed to the two actions used in Zeraati et al. (2025): exploit
 and leave. Include a Zeraati-style event-free policy-iteration baseline adapted
-to this task, plus two threshold baselines. This is a new, simplified extension
-inspired by the source paper, not a replication of its exact task or results.
+to this task, plus two threshold baselines. 
 """
 from __future__ import annotations
 import argparse, itertools, json, math, os, zipfile, textwrap
