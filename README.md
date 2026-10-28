@@ -1,10 +1,8 @@
 # Event-aware RL for patch foraging — GitHub Pages report
 
-This repository is a static, research-report website for a synthetic two-action patch-foraging simulation. It compares five policies under a common `exploit` / `leave` action set: event-aware average-reward policy iteration, event-blind policy iteration, a Zeraati-style event-free adapted baseline, an MVT-inspired threshold, and a tuned fixed threshold.
+This repository is for a synthetic two-action patch-foraging simulation. It compares five policies under a common `exploit` / `leave` action set: event-aware average-reward policy iteration, event-blind policy iteration, a Zeraati-style event-free adapted baseline, an MVT-inspired threshold, and a tuned fixed threshold.
 
-## View the site
 
-GitHub Pages can serve this repository directly. Upload the contents of this folder to the root of a new GitHub repository, then select **Settings → Pages → Deploy from a branch → `main` → `/(root)`**. The site requires no build system and uses local files only.
 
 ## Start here
 
