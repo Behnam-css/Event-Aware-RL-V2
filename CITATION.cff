@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this simulation or report, please cite the repository version you used and the source literature cited in the report."
+title: "Event-aware Reinforcement Learning for Long-run Patch Foraging: A Simulation Report"
+type: software
+version: 0.1.0
+date-released: 2026-10-28
+license: MIT
+abstract: >-
+  A synthetic two-action patch-foraging simulation comparing event-aware,
+  event-blind, event-free and threshold policies using average-reward policy
+  iteration. This is a proof-of-concept study, not an empirical biological result.

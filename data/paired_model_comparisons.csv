@@ -1,0 +1,17 @@
+scenario,comparison,baseline,mean_difference,sd_paired_difference,ci95_approx_low,ci95_approx_high,n_paired_seeds
+Reference,Event-aware PI minus Event-blind PI,Event-blind PI,0.050945623601548064,0.01386258905766902,0.0448700760720379,0.05702117113105823,20
+Reference,Event-aware PI minus Zeraati-style event-free PI,Zeraati-style event-free PI,0.07019165750252403,0.011423488621354477,0.0651850928714054,0.07519822213364265,20
+Reference,Event-aware PI minus MVT-inspired threshold,MVT-inspired threshold,0.1448839950543169,0.01700921328131762,0.1374293786547165,0.1523386114539173,20
+Reference,Event-aware PI minus Best fixed threshold,Best fixed threshold,0.06505524076078761,0.011285712112040274,0.060109059347212716,0.0700014221743625,20
+High threat,Event-aware PI minus Event-blind PI,Event-blind PI,0.05789727889057441,0.008252834059225656,0.054280314889737405,0.061514242891411414,20
+High threat,Event-aware PI minus Zeraati-style event-free PI,Zeraati-style event-free PI,0.07788729936715652,0.007440390879017118,0.07462640428936479,0.08114819444494825,20
+High threat,Event-aware PI minus MVT-inspired threshold,MVT-inspired threshold,0.20844540311133675,0.017135551155205125,0.20093541669720386,0.21595538952546964,20
+High threat,Event-aware PI minus Best fixed threshold,Best fixed threshold,0.07728279879257988,0.008516082033689216,0.07355046128003831,0.08101513630512144,20
+Slow replenishment,Event-aware PI minus Event-blind PI,Event-blind PI,0.04215207584282019,0.006906119591263543,0.039125335480925755,0.04517881620471463,20
+Slow replenishment,Event-aware PI minus Zeraati-style event-free PI,Zeraati-style event-free PI,0.06581780596986239,0.009697481305747734,0.061567697397466065,0.07006791454225872,20
+Slow replenishment,Event-aware PI minus MVT-inspired threshold,MVT-inspired threshold,0.5409676021908799,0.028308234078011484,0.5285609715894836,0.5533742327922763,20
+Slow replenishment,Event-aware PI minus Best fixed threshold,Best fixed threshold,0.07278421672952137,0.0094297649148468,0.06865144003867914,0.07691699342036361,20
+High threat + slow replenishment,Event-aware PI minus Event-blind PI,Event-blind PI,0.05220091899933675,0.00841434749796528,0.04851316861295265,0.05588866938572085,20
+High threat + slow replenishment,Event-aware PI minus Zeraati-style event-free PI,Zeraati-style event-free PI,0.08280433109710342,0.009660498918071522,0.07857043077073868,0.08703823142346816,20
+High threat + slow replenishment,Event-aware PI minus MVT-inspired threshold,MVT-inspired threshold,0.7136109008512217,0.019326693888992684,0.7051406037932627,0.7220811979091807,20
+High threat + slow replenishment,Event-aware PI minus Best fixed threshold,Best fixed threshold,0.08429810487366798,0.009879643572367508,0.0799681601678966,0.08862804957943937,20

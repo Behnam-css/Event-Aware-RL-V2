@@ -1,0 +1,35 @@
+{
+  "output_dir": "/mnt/data/event_aware_two_action_results_v2",
+  "n_seeds": 20,
+  "horizon": 3000,
+  "warmup": 200,
+  "threshold_train_seeds": 5,
+  "threshold_train_horizon": 900,
+  "threshold_train_warmup": 100,
+  "epsilon_soft": 0.01,
+  "max_policy_iterations": 100,
+  "random_seed": 20261028,
+  "verbose": false,
+  "scenarios": [
+    {
+      "name": "Reference",
+      "hazard_rate": 0.08,
+      "replenish_rate": 0.25
+    },
+    {
+      "name": "High threat",
+      "hazard_rate": 0.18,
+      "replenish_rate": 0.25
+    },
+    {
+      "name": "Slow replenishment",
+      "hazard_rate": 0.08,
+      "replenish_rate": 0.1
+    },
+    {
+      "name": "High threat + slow replenishment",
+      "hazard_rate": 0.18,
+      "replenish_rate": 0.1
+    }
+  ]
+}

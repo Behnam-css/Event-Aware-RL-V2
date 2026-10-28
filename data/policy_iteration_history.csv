@@ -1,0 +1,87 @@
+model,iteration,average_reward_rate_estimate,changed_states,scenario
+event_aware_pi,1,-0.35126254017030567,198,Reference
+event_aware_pi,2,-0.2741347262875884,277,Reference
+event_aware_pi,3,0.10626026184777951,220,Reference
+event_aware_pi,4,0.25246838058782584,89,Reference
+event_aware_pi,5,0.29373407408094665,57,Reference
+event_aware_pi,6,0.3227850120213821,17,Reference
+event_aware_pi,7,0.3232615266581922,0,Reference
+event_blind_pi,1,-0.06110445190101362,96,Reference
+event_blind_pi,2,0.006134193634198472,132,Reference
+event_blind_pi,3,0.11358669676887506,127,Reference
+event_blind_pi,4,0.24380842358701643,55,Reference
+event_blind_pi,5,0.2576850964874481,25,Reference
+event_blind_pi,6,0.2642034024130628,4,Reference
+event_blind_pi,7,0.26429828262792016,1,Reference
+event_blind_pi,8,0.2643233073400839,0,Reference
+zeraati_style_pi,1,-0.05898573416981102,30,Reference
+zeraati_style_pi,2,0.008023953563386223,49,Reference
+zeraati_style_pi,3,0.10110302982738495,52,Reference
+zeraati_style_pi,4,0.22823301653040257,18,Reference
+zeraati_style_pi,5,0.25245411341681856,4,Reference
+zeraati_style_pi,6,0.2524727966061836,2,Reference
+zeraati_style_pi,7,0.252732732241295,0,Reference
+event_aware_pi,1,-0.4784431467580536,195,High threat
+event_aware_pi,2,-0.40207800788756864,277,High threat
+event_aware_pi,3,0.05193518530670295,216,High threat
+event_aware_pi,4,0.22832224258585715,95,High threat
+event_aware_pi,5,0.2773997912632494,48,High threat
+event_aware_pi,6,0.2906244665290347,13,High threat
+event_aware_pi,7,0.2928915534114967,1,High threat
+event_aware_pi,8,0.29289236779382205,0,High threat
+event_blind_pi,1,-0.18214644777030345,96,High threat
+event_blind_pi,2,-0.11336451668277689,135,High threat
+event_blind_pi,3,0.04870673644454249,136,High threat
+event_blind_pi,4,0.18696108330029143,57,High threat
+event_blind_pi,5,0.21484034806160127,26,High threat
+event_blind_pi,6,0.2179786131660641,3,High threat
+event_blind_pi,7,0.21861886968125518,0,High threat
+zeraati_style_pi,1,-0.1680479862531044,30,High threat
+zeraati_style_pi,2,-0.09976063044169332,49,High threat
+zeraati_style_pi,3,0.0197953725803789,60,High threat
+zeraati_style_pi,4,0.12227739280996339,34,High threat
+zeraati_style_pi,5,0.16659902349067068,14,High threat
+zeraati_style_pi,6,0.20595441033057763,0,High threat
+event_aware_pi,1,-0.35128924978499443,198,Slow replenishment
+event_aware_pi,2,-0.274314900322784,261,Slow replenishment
+event_aware_pi,3,0.0892674809617363,188,Slow replenishment
+event_aware_pi,4,0.20816073413598118,81,Slow replenishment
+event_aware_pi,5,0.23150797997958417,24,Slow replenishment
+event_aware_pi,6,0.23675129905336742,7,Slow replenishment
+event_aware_pi,7,0.2369989436130787,1,Slow replenishment
+event_aware_pi,8,0.23701033931661697,0,Slow replenishment
+event_blind_pi,1,-0.06113116151570181,96,Slow replenishment
+event_blind_pi,2,0.002782563121750326,131,Slow replenishment
+event_blind_pi,3,0.07493691596415195,118,Slow replenishment
+event_blind_pi,4,0.13892958696802302,66,Slow replenishment
+event_blind_pi,5,0.16619198597202908,30,Slow replenishment
+event_blind_pi,6,0.17655736486115037,6,Slow replenishment
+event_blind_pi,7,0.1767947944279962,0,Slow replenishment
+zeraati_style_pi,1,-0.059012443784499435,30,Slow replenishment
+zeraati_style_pi,2,0.00425982307366728,46,Slow replenishment
+zeraati_style_pi,3,0.05099520587512141,46,Slow replenishment
+zeraati_style_pi,4,0.12171676145787479,23,Slow replenishment
+zeraati_style_pi,5,0.16448963099160527,7,Slow replenishment
+zeraati_style_pi,6,0.16621101783039294,3,Slow replenishment
+zeraati_style_pi,7,0.1662694076344216,0,Slow replenishment
+event_aware_pi,1,-0.47846985637274164,192,High threat + slow replenishment
+event_aware_pi,2,-0.4026039668842187,254,High threat + slow replenishment
+event_aware_pi,3,0.05343128546253928,195,High threat + slow replenishment
+event_aware_pi,4,0.1804920197018536,110,High threat + slow replenishment
+event_aware_pi,5,0.20701583896974377,49,High threat + slow replenishment
+event_aware_pi,6,0.21718324773138284,10,High threat + slow replenishment
+event_aware_pi,7,0.2176586458732303,1,High threat + slow replenishment
+event_aware_pi,8,0.2176833154774008,0,High threat + slow replenishment
+event_blind_pi,1,-0.18217315738499198,96,High threat + slow replenishment
+event_blind_pi,2,-0.11674482161755609,137,High threat + slow replenishment
+event_blind_pi,3,0.0034100217823789286,134,High threat + slow replenishment
+event_blind_pi,4,0.08595886055154701,71,High threat + slow replenishment
+event_blind_pi,5,0.13656779982988226,28,High threat + slow replenishment
+event_blind_pi,6,0.14439321009687586,6,High threat + slow replenishment
+event_blind_pi,7,0.14446590503707168,0,High threat + slow replenishment
+zeraati_style_pi,1,-0.1680746958677928,30,High threat + slow replenishment
+zeraati_style_pi,2,-0.10361080171065125,46,High threat + slow replenishment
+zeraati_style_pi,3,-0.002624081025281447,37,High threat + slow replenishment
+zeraati_style_pi,4,0.08118306320969297,23,High threat + slow replenishment
+zeraati_style_pi,5,0.12553424438954097,3,High threat + slow replenishment
+zeraati_style_pi,6,0.12553871691280755,0,High threat + slow replenishment

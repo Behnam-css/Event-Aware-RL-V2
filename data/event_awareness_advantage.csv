@@ -1,0 +1,9 @@
+scenario,comparison,baseline,mean_difference,sd_paired_difference,ci95_approx_low,ci95_approx_high,n_paired_seeds
+Reference,Event-aware PI minus Event-blind PI,Event-blind PI,0.050945623601548064,0.01386258905766902,0.0448700760720379,0.05702117113105823,20
+Reference,Event-aware PI minus Zeraati-style event-free PI,Zeraati-style event-free PI,0.07019165750252403,0.011423488621354477,0.0651850928714054,0.07519822213364265,20
+High threat,Event-aware PI minus Event-blind PI,Event-blind PI,0.05789727889057441,0.008252834059225656,0.054280314889737405,0.061514242891411414,20
+High threat,Event-aware PI minus Zeraati-style event-free PI,Zeraati-style event-free PI,0.07788729936715652,0.007440390879017118,0.07462640428936479,0.08114819444494825,20
+Slow replenishment,Event-aware PI minus Event-blind PI,Event-blind PI,0.04215207584282019,0.006906119591263543,0.039125335480925755,0.04517881620471463,20
+Slow replenishment,Event-aware PI minus Zeraati-style event-free PI,Zeraati-style event-free PI,0.06581780596986239,0.009697481305747734,0.061567697397466065,0.07006791454225872,20
+High threat + slow replenishment,Event-aware PI minus Event-blind PI,Event-blind PI,0.05220091899933675,0.00841434749796528,0.04851316861295265,0.05588866938572085,20
+High threat + slow replenishment,Event-aware PI minus Zeraati-style event-free PI,Zeraati-style event-free PI,0.08280433109710342,0.009660498918071522,0.07857043077073868,0.08703823142346816,20

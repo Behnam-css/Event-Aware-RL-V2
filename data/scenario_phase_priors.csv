@@ -1,0 +1,21 @@
+scenario,phase,stationary_phase_prior,prior_action_mixture
+Reference,FORAGE,0.652116941867438,50% exploit / 50% leave
+Reference,THREAT_ONSET,0.05989343542663413,50% exploit / 50% leave
+Reference,THREAT_ONGOING,0.15130973160412636,50% exploit / 50% leave
+Reference,RECOVERY_ONSET,0.05989343542663334,50% exploit / 50% leave
+Reference,RECOVERY,0.07678645567516834,50% exploit / 50% leave
+High threat,FORAGE,0.45144214885230366,50% exploit / 50% leave
+High threat,THREAT_ONSET,0.09496673505062796,50% exploit / 50% leave
+High threat,THREAT_ONGOING,0.23991596223316225,50% exploit / 50% leave
+High threat,RECOVERY_ONSET,0.0949667350506267,50% exploit / 50% leave
+High threat,RECOVERY,0.11870841881327943,50% exploit / 50% leave
+Slow replenishment,FORAGE,0.652116941867438,50% exploit / 50% leave
+Slow replenishment,THREAT_ONSET,0.05989343542663413,50% exploit / 50% leave
+Slow replenishment,THREAT_ONGOING,0.15130973160412636,50% exploit / 50% leave
+Slow replenishment,RECOVERY_ONSET,0.05989343542663334,50% exploit / 50% leave
+Slow replenishment,RECOVERY,0.07678645567516834,50% exploit / 50% leave
+High threat + slow replenishment,FORAGE,0.45144214885230366,50% exploit / 50% leave
+High threat + slow replenishment,THREAT_ONSET,0.09496673505062796,50% exploit / 50% leave
+High threat + slow replenishment,THREAT_ONGOING,0.23991596223316225,50% exploit / 50% leave
+High threat + slow replenishment,RECOVERY_ONSET,0.0949667350506267,50% exploit / 50% leave
+High threat + slow replenishment,RECOVERY,0.11870841881327943,50% exploit / 50% leave
